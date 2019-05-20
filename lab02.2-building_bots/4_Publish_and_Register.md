@@ -7,8 +7,7 @@ Estimated Time: 10-15 minutes
 
 This step of the Lab has not been updated since February 1, 2019. Since the recent changes in the Echo-Bot temaplate, the publishing process won't work.
 
-You can use [this](https://docs.microsoft.com/en-us/azure/bot-service/bot-builder-deploy-az-cli?view=azure-bot-service-4.0&tabs=csharp) official material as a reference, 
-but you need to find, by yourself, what are the actions required to make it work.
+You can use [this](https://docs.microsoft.com/en-us/azure/bot-service/bot-builder-deploy-az-cli?view=azure-bot-service-4.0&tabs=csharp) official material as a reference, but you need to find, by yourself, what are the actions required to make it work.
 
 ### Lab 4.1: Re-publish your bot
 
