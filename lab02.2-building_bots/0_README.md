@@ -8,7 +8,9 @@ This Lab 2.2 is provided “as is”, including steps 1 to 5. It will work with 
 Security and resources management are done from a .bot file (SDK V4.3); later SDK versions will want to use appsettings.json or .env file. 
 
 **You are invited to add these updates to the repo, including new cognitive services integrations like Q&A Maker. 
-Pull Requests will be evaluated monthly and attributed appropriately to the author.**
+Pull Requests are reviewed monthly and credit appropriately attributed.**
+
+
 
 ## Objectives
 
