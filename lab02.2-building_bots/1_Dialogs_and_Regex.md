@@ -10,8 +10,6 @@ This lab, **1_Dialogs_and_Regex**, is under maintenance. The hands-on activities
 1. Using the "Finished Solution", located in the **resources/code/FinishedPictureBot-Part0** folder, start from the [2_Azure_Search](./2_Azure_Search.md) lab. 
 1. Also execute the [LUIS](./3_LUIS.md) lab.
 
-**Stay tuned for further updates. Every collaboration is welcome.**
-
 ## Important Note - April 2019 - Workaround Instructions - End
 
 ## Building a Bot
