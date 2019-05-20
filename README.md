@@ -4,9 +4,9 @@
 
 ## Cognitive Services Bootcamp - Build an Intelligent Search Solution for Images using Microsoft AI Platform
 
-## Important Information
+## Important Information - May 2019
 
-This training was created, and last updated,  with Bot Framework SDK V4.0, Visual Studio 2017, Bot Emulator 4.3, and .Net Framework 4.6. The content is provided “as is.”  
+This training was created, and last updated, with Bot Framework SDK V4.0, Visual Studio 2017, Bot Emulator 4.3, and .Net Framework 4.6. The content is provided “as is.”  
 Due to the rapidly changing nature of the many components, including Azure PaaS services, individual labs may break when new versions are used. 
 Be mindful of this as you progress through them, and test the code with newer versions of the mentioned tools, particularly if you’re planning a redelivery. 
 
