@@ -4,11 +4,9 @@ This hands-on lab guides you through creating an intelligent bot from end-to-end
 
 ## Important Information - May 2019
 
-This Lab 2.2 is provided “as is”, including steps 1 to 5. It will work with Bot Framework SDK V4.0 but not the Echo-bot template (2019), SDK V4.3 and its newer cognitive services integration methods. 
-Security and resources management are done from a .bot file (SDK V4.3); later SDK versions will want to use appsettings.json or .env file. 
+This Lab 2.2 is provided “as is”, including steps 1 to 5. It will work with Bot Framework SDK V4.0 but not the Echo-bot template (2019), SDK V4.3 and its newer cognitive services integration methods. Security and resources management are done from a .bot file (SDK V4.3); later SDK versions will want to use appsettings.json or .env file. 
 
-**You are invited to add these updates to the repo, including new cognitive services integrations like Q&A Maker. 
-Pull Requests are reviewed monthly and credit appropriately attributed.**
+**You are invited to add these updates to the repo, including new cognitive services integrations like Q&A Maker. Pull Requests are reviewed monthly and credit appropriately attributed.**
 
 ## Objectives
 
