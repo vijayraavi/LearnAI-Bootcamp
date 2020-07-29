@@ -1,14 +1,17 @@
-# Apps & Agents
+# LearnAI Team - Apps & Agents - Cognitive Services Bootcamp - Intelligent BOT
 
 ![Header](./assets/header.png)
 
-## Cognitive Services Bootcamp - Build an Intelligent Search Solution for Images using Microsoft AI Platform
+## IMPORTANT MESSAGE - CONTENT RETIREMENT NOTICE
 
-## Important Information - May 2019
+The LearnAI team appreciates your visit, but this training was retired in 2019 and no further maintenance will be done. The team no longer exists and there is no creation of new content. You can use this material as is, no issues or PRs will be considered.
 
-This training was created, and last updated, with Bot Framework SDK V4.0, Visual Studio 2017, Bot Emulator 4.3, and .Net Framework 4.6. The content is provided “as is". Due to the rapidly changing nature of the many components, including Azure PaaS services, individual labs may break when new versions are used. Be mindful of this as you progress through them, and test the code with newer versions of the mentioned tools, particularly if you’re planning a redelivery. 
+To learn more about AI and Knowledge Mining, check this resources:
 
-**This repo depends upon the community’s input to keep this training current. As you find inconsistencies and bugs, please update the course! Pull Requests are reviewed monthly and credit appropriately attributed.**
++ Microsoft AI School - http://aka.ms/ai-school
++ Microsoft AI Customer Engineering Team Blog - http://aka.ms/ACE-Blog
+
+Thank you for the visit!
 
 ## About this course
 
